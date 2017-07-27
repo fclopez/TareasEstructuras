@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="encapsulamiento/src"/>
+	<classpathentry kind="src" path="estructura/src"/>
+	<classpathentry kind="src" path="herencia/src"/>
+	<classpathentry kind="src" path="Interfaz/src"/>
+	<classpathentry kind="src" path="modular/src"/>
+	<classpathentry kind="src" path="poliformismo/src"/>
+	<classpathentry kind="src" path="robocode/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
